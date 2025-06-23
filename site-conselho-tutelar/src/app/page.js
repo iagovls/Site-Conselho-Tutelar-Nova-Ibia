@@ -13,12 +13,11 @@ export default function Home() {
             width={500}
             height={500}
             className="w-[900px]"
-          >
-
-          </Image>
+          ></Image>
         </div>
         <div className="flex flex-col w-5/12 text-end gap-2 mt-32">
-          <h1 className="text-4xl font-extralight text-start">Um <strong className="text-pink-500 font-bold">futuro melhor</strong> para nossas <br/> <strong className="text-cyan-400 font-bold">crianças</strong> e <strong className="text-green-400 font-bold">adolescentes</strong></h1>
+          <h1 className="text-4xl font-extralight text-start">
+            Um <strong className="text-pink-500 font-bold">futuro melhor</strong> para nossas <br/> <strong className="text-cyan-400 font-bold">crianças</strong> e <strong className="text-green-400 font-bold">adolescentes</strong></h1>
           <p className="text-justify w-[505px] ">O Conselho Tutelar é o órgão encarregado pela sociedade de zelar pelo cumprimento dos direitos da criança e do adolescente, definidos pelo Estatuto da Criança e do Adolescente (ECA). Tem como atribuições atender as crianças e adolescentes que necessitam de proteção, quando em situações de risco, violência ou negligência.</p>
         </div>
       </div>

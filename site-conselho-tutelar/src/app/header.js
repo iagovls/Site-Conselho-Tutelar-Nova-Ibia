@@ -17,26 +17,11 @@ export default function Header() {
         />
       </Link>
       <div className="flex gap-5">
-        <Link
-          href={"/"}
-          className="font-bold textxl"
-        >
-          Início
-        </Link>
-        <Link
-          href={"/"}
-          className="font-bold textxl"
-        >
-          Nossos projetos
-        </Link>
-        <Link
-          href={"/"}
-          className="font-bold textxl"
-        >
-          Contato
-        </Link>
-        
-        
+        <Link href={"/"} className="font-bold textxl">Início</Link>
+
+        <Link href={"/"} className="font-bold textxl">Nossos projetos</Link>
+
+        <Link href={"/"} className="font-bold textxl">Contato</Link>
       </div>
     </div>
   );
