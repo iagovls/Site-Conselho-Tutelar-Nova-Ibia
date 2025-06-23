@@ -9,7 +9,7 @@ export default function Header() {
        className="flex gap-3">
         <h1 className="text-gray-900 font-bold md:text-3xl ">Conselho Tutelar de</h1>
         <Image
-          src={"/logoPrefeitura2.png"}
+          src={"logoPrefeitura2.png"}
           alt="Logo Prefeitura de Nova Ibiá"
           width={500}
           height={100}

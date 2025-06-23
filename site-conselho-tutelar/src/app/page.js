@@ -8,7 +8,7 @@ export default function Home() {
         <div className="relative">
           <div className="w-full h-1/2 bg-pink-500 rounded-4xl absolute -z-10 top-28 left[]"></div>
           <Image
-            src={"/CriancasCorrendo.png"}
+            src={"CriancasCorrendo.png"}
             alt="Crianças alegres correndo"
             width={500}
             height={500}
@@ -27,7 +27,7 @@ export default function Home() {
         className="flex flex-col gap-3 items-center"
         >
           <Image
-            src={"/doc.png"}
+            src={"doc.png"}
             alt=""
             width={80}
             height={80}
@@ -46,7 +46,7 @@ export default function Home() {
         className="flex flex-col gap-3 items-center"
         >
         <Image
-          src={"/whatsapp.png"}
+          src={"whatsapp.png"}
           alt=""
           width={100}
           height={100}
