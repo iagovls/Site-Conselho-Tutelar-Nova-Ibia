@@ -38,11 +38,11 @@ jobs:
           
       - name: Install dependencies
         run: npm install
-        working-directory: project
+        working-directory: site-conselho-tutelar
 
       - name: Build site
         run: npm run build
-        working-directory: project
+        working-directory: site-conselho-tutelar
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
