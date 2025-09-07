@@ -33,7 +33,7 @@ export default function Home() {
             alt="Estatuto da Criança e do Adolescente"
             width={80}
             height={80}
-            className="w-16 h-16 sm:w-20 sm:h-20 text-center"
+            className="w-12 h-16 sm:w-16 sm:h-20 text-center"
           ></Image>
           <h1 className="text-center font-bold text-sm sm:text-base">
             Estatuto <br/> 
